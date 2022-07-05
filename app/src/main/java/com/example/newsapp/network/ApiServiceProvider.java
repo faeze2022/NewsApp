@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiServiceProvider {
 
     private static ApiService apiService;
-    //URL=https://newsapi.org/v2/everything?q=tesla&from=2022-05-29&sortBy=publishedAt&apiKey=1dc46adcaa564130a86287dd4efe009a
+    //URL=https://newsapi.org/v2/everything?q=tesla&from=2022-06-05&sortBy=publishedAt&apiKey=1dc46adcaa564130a86287dd4efe009a
     private static final String BASE_URL="https://newsapi.org/v2/";
 
 
