@@ -12,3 +12,5 @@ In this News App with MVVM Architecture, uses [News API](https://newsapi.org/). 
 
 
 ![WhatsApp Image 2022-07-23 at 11 45 01 PM](https://user-images.githubusercontent.com/100417762/180619807-7cb9e0e8-944f-44fe-afb1-a2f04a32084d.jpeg)
+
+![WhatsApp Image 2022-07-23 at 11 50 25 PM](https://user-images.githubusercontent.com/100417762/180619886-905ccad2-a82a-43af-b696-3a0c39e6d627.jpeg)
